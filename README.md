@@ -15,6 +15,8 @@ A curated list of awesome Security talks
 Conference | Location | Date
 --- | --- | ---
 | [Hack Lu](https://administraitor.video/edition/Hack.lu/2019) | Luxembourg, Luxembourg | October 22-24, 2019 |
+| [Hack In The Box HITB2019AUH](https://administraitor.video/edition/Hack%20In%20The%20Box/HITB2019AUH) | Dubai, UAE | October 13-17. 2019 |
+| [Hack In The Box HITB2019GSec](https://administraitor.video/edition/Hack%20In%20The%20Box/HITB2019GSec) | Singapore | Auguest 29-30. 2019 |
 | [RuhrSec 2019 Day 1](https://www.youtube.com/playlist?list=PLbDDsIuMYNGyUPEUZnvu-cWcgHfiBHQ8H) | Bochum, Germany | May 28-29, 2019 |
 | [RuhrSec 2019 Day 2](https://www.youtube.com/playlist?list=PLbDDsIuMYNGxx4DHwYYZ-Kfnk4uDLGUcx) | Bochum, Germany | May 28-29, 2019 |
 
